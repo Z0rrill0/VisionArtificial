@@ -69,7 +69,7 @@ El script `detect_objects.py` realiza las siguientes operaciones:
 
 Aquí tienes una imagen de ejemplo que muestra el resultado de nuestro proyecto:
 
-![Resultado del proyecto](imagen1.png)
-![Resultado del proyecto](imagen2.png)
-![Resultado del proyecto](imagen3.png)
-![Resultado del proyecto](imagen4.png)
+![Resultado del proyecto](Z0rrill0/VisionArtificial/imagen1.png)
+![Resultado del proyecto](Z0rrill0/VisionArtificial/imagen2.png)
+![Resultado del proyecto](Z0rrill0/VisionArtificial/imagen3.png)
+![Resultado del proyecto](Z0rrill0/VisionArtificial/imagen4.png)
